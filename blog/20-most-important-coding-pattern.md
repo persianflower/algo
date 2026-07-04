@@ -9,11 +9,7 @@ tags: [coding, interview, dsa, C++,Rishi-Verma, java, python, programming,slidin
 Navigating through coding interviews requires more than just a good grasp of algorithms and data structures; it demands a strategic approach and a keen eye for patterns. In today's competitive world of tech job interviews, understanding and mastering coding patterns can significantly enhance your problem-solving skills and boost your performance.
 
 <!-- truncate -->
-Coding patterns, or as we like to call them, are recurring techniques that provide a structured approach to solving complex problems. Think of them as the building blocks of algorithms, helping you to break down problems into more manageable parts.
 
-In this blog, we will explore 20 essential coding patterns that are pivotal for acing coding interviews. We will delve into the pros and cons of each pattern, providing you with a balanced view to help you make informed decisions during your interviews. And to top it off, we will equip you with real problem examples from the Grokking the Coding Interview course. I'm the author of this course, feel free to reach out to me if you have questions.
-
-Let's go through each pattern one by one.
 
 ## 1. Two Pointers
 
